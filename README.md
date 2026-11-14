@@ -1,3 +1,5 @@
+> **Personal exploration fork.** Canonical project: [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec). This copy preserves upstream work and documentation; it is not presented as an original product or a separately maintained release. Refer to upstream for current installation instructions, supported versions and issue tracking.
+
 [![](https://img.shields.io/pypi/v/top2vec.svg)](https://pypi.org/project/top2vec/)
 [![](https://img.shields.io/pypi/l/top2vec.svg)](https://github.com/ddangelov/Top2Vec/blob/master/LICENSE)
 [![](https://readthedocs.org/projects/top2vec/badge/?version=latest&token=0c691c6cc79b4906e35e8b7ede01e815baa05041d048945fa18e26810a3517d7)](https://top2vec.readthedocs.io/en/latest/?badge=latest)
